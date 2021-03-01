@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Yonatan Im Full Stack web devloper i make **📱 android apps and 🌐 Website** for a living,
-See my portfolio ➡️  <a href="https://yonatan-mahluf-portfolio.netlify.app/"></a>
+See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
 
 
 -🧐 Interested in full stack postion.
