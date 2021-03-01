@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40blockchain_simplified%2Fwhat-is-mern-stack-9c867dbad302&psig=AOvVaw3vRJHJ4SVlGSgjFjeWdw3Q&ust=1614676218038000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDRoOffju8CFQAAAAAdAAAAABAD)
+![](https://miro.medium.com/max/875/0*QrGJeWvArCjF2BuV.jpg)
 
 My name is Yonatan Im Full Stack web devloper i make **📱 android apps and 🌐 Website** for a living,
 See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
