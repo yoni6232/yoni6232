@@ -10,3 +10,16 @@ See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
 - 🔭 I’m currently working on my final project with DELL EMC in Python
 - 🌱 I’m currently learning Python & React Native
 - 📫 How to reach me: Email:yoni6232@gmail.com
+
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+
+[2]: https://www.linkedin.com/in/ymahluf/
