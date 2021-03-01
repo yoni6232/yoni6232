@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://miro.medium.com/max/875/0*QrGJeWvArCjF2BuV.jpg)
 
 My name is Yonatan Im Full Stack web devloper i make **📱 android apps and 🌐 Website** for a living,
 See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
