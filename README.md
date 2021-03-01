@@ -9,4 +9,4 @@ See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
 -🎓 Fourth year in SW engineering , Major Cyber security, GPA: 85
 - 🔭 I’m currently working on my final project with DELL EMC in Python
 - 🌱 I’m currently learning Python & React Native
-- 📫 How to reach me: Email:yobi6232@gmail.com
+- 📫 How to reach me: Email:yoni6232@gmail.com
