@@ -12,7 +12,7 @@ See my portfolio ➡️  https://yonatan-mahluf-portfolio.netlify.app/
 - 📫 How to reach me: Email:yoni6232@gmail.com
 
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][3].
 
 <!-- Icons -->
 
